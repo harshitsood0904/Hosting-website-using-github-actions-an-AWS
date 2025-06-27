@@ -1,1 +1,1 @@
-# Hosting-website-using-github-actions-an-AWS
+# Hosting-website-using-github-actions-and-AWS
